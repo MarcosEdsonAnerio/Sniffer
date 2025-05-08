@@ -32,7 +32,6 @@ Este projeto é dividido em duas partes principais:
 
 cd sniffer
 
-
 sudo python3 sniffer.py (Ou somente pyton sniffer.py)
 
 ## Tela:
